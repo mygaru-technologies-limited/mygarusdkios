@@ -1,0 +1,11 @@
+framework module MyGaruSDK {
+  umbrella header "MyGaruSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module MyGaruSDK.Swift {
+    header "MyGaruSDK-Swift.h"
+    requires objc
+}

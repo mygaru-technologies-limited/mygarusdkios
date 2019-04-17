@@ -1,0 +1,7 @@
+use_frameworks!
+
+target 'MyGaruSDK_Example' do
+  pod 'MyGaruSDK'
+  
+  end
+end
