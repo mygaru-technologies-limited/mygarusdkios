@@ -7,17 +7,29 @@
 //
 
 import UIKit
+import MyGaruSDK
 
 class ViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+    
+    @IBAction func showMyGaruUI() {
+        do {
+            let mygaruViewController = try MyGaruSDK.showDashboard()
+            self.present(mygaruViewController, animated: true, completion: nil)
+        } catch (let error) {
+            print("Couldn't start an SDK: \(error)")
+        }
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    
+    @IBAction func sendTestData() {
+        do {
+            let parameters = ["lucky_number": 42,
+                              "unlucky_number": 13]
+            try MyGaruSDK.sendData(description: "Lucky Number", parameters: parameters) { (result: Bool) in
+                result ? print("YAY!") : print("NOOO!")
+            }
+        } catch (let error) {
+            print("Couldn't send data: \(error)")
+        }
     }
 
 }
