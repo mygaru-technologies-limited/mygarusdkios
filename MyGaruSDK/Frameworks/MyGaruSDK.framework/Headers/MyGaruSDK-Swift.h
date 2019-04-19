@@ -193,7 +193,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
-@class NSBundle;
+
+
 @class NSCoder;
 
 SWIFT_CLASS("_TtC9MyGaruSDK23CountryPickerController")
@@ -234,12 +235,12 @@ SWIFT_CLASS("_TtC9MyGaruSDK38CountryPickerWithSectionViewController")
 
 
 @interface CountryPickerWithSectionViewController (SWIFT_EXTENSION(MyGaruSDK))
-- (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
+- (void)searchBar:(UISearchBar * _Nonnull)searchBar textDidChange:(NSString * _Nonnull)searchText;
 @end
 
 
 @interface CountryPickerWithSectionViewController (SWIFT_EXTENSION(MyGaruSDK))
-- (void)searchBar:(UISearchBar * _Nonnull)searchBar textDidChange:(NSString * _Nonnull)searchText;
+- (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 @end
 
 
