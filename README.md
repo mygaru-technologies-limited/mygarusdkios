@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/MyGaruSDK.svg?style=flat)](https://cocoapods.org/pods/MyGaruSDK)
 [![Platform](https://img.shields.io/cocoapods/p/MyGaruSDK.svg?style=flat)](https://cocoapods.org/pods/MyGaruSDK)
 
+## Warning
+**!! This SDK is not considered ready for production use.** 
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
