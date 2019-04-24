@@ -18,8 +18,7 @@ You will need Swift 5.0+ and Xcode 10.2+
 
 ## Getting API Key
 
-First, you'll need to get your MyGaruSDK iOS API key. To find these,  select the 'myGaru for iOS' option in your [app settings](https://forinfinite.pw/#/dev/my-apps).
-
+First, you'll need to get your myGaruSDK iOS API key. To find these, just contact our team [sdk@mygaru.com](mailto:sdk@mygaru.com) .
 
 ## Installation
 
@@ -71,8 +70,9 @@ do {
 See Example project for more information.
 
 ## Author
-
+myGaru Technologies, 
 Oleg Agapov, o.agapov@mygaru.com
+
 
 ## License
 
