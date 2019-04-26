@@ -167,7 +167,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
 @import Contacts;
-@import CoreGraphics;
+@import CoreData;
 @import CoreLocation;
 @import Foundation;
 @import ObjectiveC;
@@ -195,60 +195,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
-@class NSCoder;
-
-SWIFT_CLASS("_TtC9MyGaruSDK23CountryPickerController")
-@interface CountryPickerController : UIViewController
-- (void)viewDidLoad;
-- (void)viewWillAppear:(BOOL)animated;
-- (void)viewDidAppear:(BOOL)animated;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class UISearchBar;
-
-@interface CountryPickerController (SWIFT_EXTENSION(MyGaruSDK)) <UISearchBarDelegate>
-- (void)searchBar:(UISearchBar * _Nonnull)searchBar textDidChange:(NSString * _Nonnull)searchText;
-- (void)searchBarCancelButtonClicked:(UISearchBar * _Nonnull)searchBar;
-- (void)searchBarSearchButtonClicked:(UISearchBar * _Nonnull)searchBar;
-@end
-
-@class UITableView;
-@class UITableViewCell;
-
-@interface CountryPickerController (SWIFT_EXTENSION(MyGaruSDK)) <UITableViewDataSource, UITableViewDelegate>
-- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-- (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
-- (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-@end
-
-
-SWIFT_CLASS("_TtC9MyGaruSDK38CountryPickerWithSectionViewController")
-@interface CountryPickerWithSectionViewController : CountryPickerController
-- (void)viewDidLoad;
-- (void)viewWillAppear:(BOOL)animated;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
-@end
-
-
-@interface CountryPickerWithSectionViewController (SWIFT_EXTENSION(MyGaruSDK))
-- (void)searchBar:(UISearchBar * _Nonnull)searchBar textDidChange:(NSString * _Nonnull)searchText;
-@end
-
-
-@interface CountryPickerWithSectionViewController (SWIFT_EXTENSION(MyGaruSDK))
-- (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
-@end
-
-
-@interface CountryPickerWithSectionViewController (SWIFT_EXTENSION(MyGaruSDK))
-- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-@end
-
 
 SWIFT_CLASS("_TtC9MyGaruSDK9MyGaruSDK")
 @interface MyGaruSDK : NSObject
@@ -256,6 +202,14 @@ SWIFT_CLASS("_TtC9MyGaruSDK9MyGaruSDK")
 @end
 
 
+@interface UIBarItem (SWIFT_EXTENSION(MyGaruSDK))
+@property (nonatomic, copy) NSString * _Nullable xibLocalizationKey;
+@end
+
+
+@interface UIButton (SWIFT_EXTENSION(MyGaruSDK))
+@property (nonatomic, copy) NSString * _Nullable xibLocalizationKey;
+@end
 
 
 
@@ -268,6 +222,18 @@ SWIFT_CLASS("_TtC9MyGaruSDK9MyGaruSDK")
 
 
 
+@interface UILabel (SWIFT_EXTENSION(MyGaruSDK))
+@property (nonatomic, copy) NSString * _Nullable xibLocalizationKey;
+@end
+
+
+
+
+
+
+@interface UITextField (SWIFT_EXTENSION(MyGaruSDK))
+@property (nonatomic, copy) NSString * _Nullable xibLocalizationKey;
+@end
 
 
 
@@ -275,11 +241,26 @@ SWIFT_CLASS("_TtC9MyGaruSDK9MyGaruSDK")
 
 
 
+@class NSNumber;
+@class NSEntityDescription;
+@class NSManagedObjectContext;
 
-
-
-
-
+SWIFT_CLASS_NAMED("UserCD")
+@interface UserCD : NSManagedObject
+@property (nonatomic, copy) NSString * _Null_unspecified phone;
+@property (nonatomic, copy) NSString * _Null_unspecified userId;
+@property (nonatomic, copy) NSString * _Null_unspecified jwt;
+@property (nonatomic, copy) NSString * _Null_unspecified deviceHash;
+@property (nonatomic, copy) NSString * _Null_unspecified currentAppId;
+@property (nonatomic, copy) NSString * _Nullable countryCode;
+@property (nonatomic, copy) NSString * _Nullable email;
+@property (nonatomic, copy) NSString * _Nullable firstName;
+@property (nonatomic, copy) NSString * _Nullable lastName;
+@property (nonatomic, copy) NSString * _Nullable gender;
+@property (nonatomic, copy) NSDate * _Nullable birthday;
+@property (nonatomic, strong) NSNumber * _Nullable signedAgreement;
+- (nonnull instancetype)initWithEntity:(NSEntityDescription * _Nonnull)entity insertIntoManagedObjectContext:(NSManagedObjectContext * _Nullable)context OBJC_DESIGNATED_INITIALIZER;
+@end
 
 
 

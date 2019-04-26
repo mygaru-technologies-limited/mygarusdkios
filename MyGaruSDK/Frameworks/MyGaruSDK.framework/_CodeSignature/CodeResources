@@ -6,11 +6,11 @@
 	<dict>
 		<key>Agreement.storyboardc/4vg-GM-JfL-view-A9t-e1-nVf.nib</key>
 		<data>
-		azjR5bJkk0JfUqDZBaKct49KjvU=
+		qOaD2vxYtBb/n5a6E6Q4VksRAbw=
 		</data>
 		<key>Agreement.storyboardc/AgreementViewController.nib</key>
 		<data>
-		8vVofe6m+5YcQbDLyBbttWAhRiA=
+		zzFEZ1J0oj6aixT7jifIlfe/fis=
 		</data>
 		<key>Agreement.storyboardc/Info.plist</key>
 		<data>
@@ -18,59 +18,59 @@
 		</data>
 		<key>Agreement.storyboardc/SignatureViewController.nib</key>
 		<data>
-		qyroCUgfhSUowZgApW229soUhc4=
+		d5q5adpSqT2dwF9/24T1sX+/y68=
 		</data>
 		<key>Agreement.storyboardc/nXV-GI-SF0-view-I24-SU-TSZ.nib</key>
 		<data>
-		gqjRYmQI7G8KedAlvyPMs4aaoNc=
+		HUCwJ6TcxmBQj/wKUI6WPG3ETKE=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		rNfABvPiMd9IdQv2S42lr9XIn+M=
+		iW7iyRzF723AWVzgoWBIQXBr7yQ=
 		</data>
 		<key>AuthFlow.storyboardc/CodeVerificationViewController.nib</key>
 		<data>
-		SVKrs6SCHl7fBMemtrflQl3Zidc=
+		c+uOis/8xuCSrS7Ts8BwhvSylMI=
 		</data>
 		<key>AuthFlow.storyboardc/CountryViewController.nib</key>
 		<data>
-		/+vSaXjMzxAHCepzWUOm0qCBUhk=
+		oWWGx+iO0ucWeqzEOA1PIDNrXpE=
 		</data>
 		<key>AuthFlow.storyboardc/GCU-H7-RBm-view-5uV-4x-12r.nib</key>
 		<data>
-		4Pznlz979XdY2FjY45Q/j3i+TjM=
+		AiN5hO1KSAF9C0fbTA55vqVhrPI=
 		</data>
 		<key>AuthFlow.storyboardc/Info.plist</key>
 		<data>
-		jAlvT1dsVDKEV6EkgqIh0BIhQ/4=
+		DXlihnnCRfVlK5w6JCUI09cc2cM=
 		</data>
 		<key>AuthFlow.storyboardc/OtherAppLoginViewController.nib</key>
 		<data>
-		GEGu/1x8YFjW0Zk9/OEd8YxhyTM=
+		Lwych6CqxsD9L+ns9kgoU78/khg=
 		</data>
 		<key>AuthFlow.storyboardc/QRLoginViewController.nib</key>
 		<data>
-		XGttb0iCtxhJqy19K8d9aoo+gpQ=
+		xxhnXS2sKPI5+SKysQUPo59HNoE=
 		</data>
 		<key>AuthFlow.storyboardc/SMSAuthViewController.nib</key>
 		<data>
-		zzXJX8OqCgK9nDivVwDEanfJb7Y=
+		B6HaYCSuW+xYXlWWyZ2szvRQ9ys=
 		</data>
 		<key>AuthFlow.storyboardc/b5X-KD-Lj1-view-WNv-5x-Wg4.nib</key>
 		<data>
-		sr/tay7yZkyR6UxyYVEqHeq4Emc=
+		5hunrw42Fs8U5HBgtWKc9ZjxMPo=
 		</data>
 		<key>AuthFlow.storyboardc/bqN-fh-RB2-view-35x-gp-90U.nib</key>
 		<data>
-		JFA6FMPfAS52Ou6SHs3k/Ecbj3o=
+		IEBNe1OUw2wVeyrMfI4rS+OO2qM=
 		</data>
 		<key>AuthFlow.storyboardc/eeq-iG-eDl-view-SW8-e2-Y4I.nib</key>
 		<data>
-		cprUH7TYoWNFkVLT39R8q/aqggc=
+		hHkbmIUWKwe7i6ndQGGLjeXdJuQ=
 		</data>
 		<key>AuthFlow.storyboardc/ltr-Pl-n9h-view-M4B-sd-lKI.nib</key>
 		<data>
-		pHz/AyjWvSYVSSgr1D7n5oWPcoc=
+		vUekFE7VwROykNUp0DNOmxpOdIU=
 		</data>
 		<key>CountryPickerController.bundle/AD.png</key>
 		<data>
@@ -2070,7 +2070,7 @@
 		</data>
 		<key>EditProfile.storyboardc/EditUserProfileViewController.nib</key>
 		<data>
-		JbjtFzbbN5yYBlOwFizOZtcRLoI=
+		OaPcFd7YSDddia95gDU2TYVNjb4=
 		</data>
 		<key>EditProfile.storyboardc/Info.plist</key>
 		<data>
@@ -2078,11 +2078,11 @@
 		</data>
 		<key>EditProfile.storyboardc/QVu-xL-Rws-view-kLF-tb-NJn.nib</key>
 		<data>
-		W/+1XA7w79P1EjpOz12Gfut+R2Q=
+		bIHDz2UYTF5lMvGICZE9fP0xrKM=
 		</data>
 		<key>Headers/MyGaruSDK-Swift.h</key>
 		<data>
-		gFAgMR1TmtEus8qQNr3Drd+59iM=
+		ibx0hUnFahaW1m1S4l9AalLgR3s=
 		</data>
 		<key>Headers/MyGaruSDK.h</key>
 		<data>
@@ -2090,7 +2090,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pqQzOg57DTUOieRN/QE/K56qzJ0=
+		1NJ4xMDX8YNsaNSGDSRf/Qn6LJg=
 		</data>
 		<key>Modules/MyGaruSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -2098,7 +2098,7 @@
 		</data>
 		<key>Modules/MyGaruSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		OtA8f/0/Kx8r6Od2s31tLdscAtc=
+		x8Jcf/Ymt/ZVUzhwreD40n3Ut4Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2106,27 +2106,27 @@
 		</data>
 		<key>SDKMain.storyboardc/CLB-lc-Zk0-view-6ol-0I-3HE.nib</key>
 		<data>
-		9XMfw5/xHjHPV55dWinFuDWIRhA=
+		YebnTu8LopDndpnFL9iXo5hz+6Q=
 		</data>
 		<key>SDKMain.storyboardc/Dashboard1.nib</key>
 		<data>
-		PgIPTreFI2Jt62WeO8K7YJtdJbQ=
+		SP6cL9s7PJsUCQPlEEKrvdBRyNo=
 		</data>
 		<key>SDKMain.storyboardc/Dashboard2.nib</key>
 		<data>
-		VFk02MYNgOLMvT/rrCGtwNiZyYY=
+		FQJrURhH1nW152qeQxNxr9rW02M=
 		</data>
 		<key>SDKMain.storyboardc/Dashboard3.nib</key>
 		<data>
-		y7vwdFxTteTdJq/QvLa5+AI66i4=
+		meqPfOYrW77TrnNW4NBG+DLXEvs=
 		</data>
 		<key>SDKMain.storyboardc/DashboardViewController.nib</key>
 		<data>
-		UqyH2jn0CovCr1I4rmZsxAmjb5A=
+		FkMwPg3omCwhbxVOroDBrKf3OQw=
 		</data>
 		<key>SDKMain.storyboardc/DataManagementViewController.nib</key>
 		<data>
-		CP/ynyZxosKWaUYm7ceOA/FsOLo=
+		A7FeEN/ISlg0DDIzTl5DVIe20YQ=
 		</data>
 		<key>SDKMain.storyboardc/Info.plist</key>
 		<data>
@@ -2134,47 +2134,47 @@
 		</data>
 		<key>SDKMain.storyboardc/N6N-mn-umv-view-Cg6-LE-sQK.nib</key>
 		<data>
-		tcH7xyn5ascJRt7aPbVkOCUqZfc=
+		TP1Z3Cx1Yligba3BXGNPcH6CI+Q=
 		</data>
 		<key>SDKMain.storyboardc/NavigationViewController.nib</key>
 		<data>
-		F88R1rY3ucgttqoaxCXpZdLCxxM=
+		8ERr+1YbdCcJpKgcAscrCtvP88k=
 		</data>
 		<key>SDKMain.storyboardc/O3H-fd-hhE-view-pFA-an-fq3.nib</key>
 		<data>
-		AUMEmvOw2Cf2Nc2vLky57Z85rUw=
+		YV1HohMiLHyRtnjwo/0kbo4VEy4=
 		</data>
 		<key>SDKMain.storyboardc/QRScanViewController.nib</key>
 		<data>
-		iPoXpcv97afhmd15fG8Z05aOA+Q=
+		wgdl6BnpafqyW1/1Fp/E0AC/nfI=
 		</data>
 		<key>SDKMain.storyboardc/TabBarViewController.nib</key>
 		<data>
-		bnSiryGS3FXYdKS+8YQyVNAYW24=
+		F9jrHBBQD8LPQc2wkyFR9UI7Thg=
 		</data>
 		<key>SDKMain.storyboardc/ae8-4E-3Ye-view-4ay-q9-2f9.nib</key>
 		<data>
-		/tVDTxDe5jA/fVS+jNUSu8YzsQY=
+		9XPWcCFOfsYmdnKSXU2cHR+Ho0s=
 		</data>
 		<key>SDKMain.storyboardc/eOq-LW-WNR-view-sMs-cH-djb.nib</key>
 		<data>
-		oOLUp5KwLFChu78JurRx0eIEz70=
+		k2eiFsOE68TSG2z1eQcM5Ul3+4U=
 		</data>
 		<key>SDKMain.storyboardc/kyX-DW-jTK-view-E6H-OL-l2K.nib</key>
 		<data>
-		7z0SrtqQXskMeugcbPoHwznBICI=
+		KcXFhCsRKqUwuyMFV2P3kBCziHo=
 		</data>
 		<key>SDKMain.storyboardc/pwX-DK-klk-view-PSa-y8-iTp.nib</key>
 		<data>
-		dfK/ZHKS7TgL7UKxiylVi1xLeXg=
+		jAJxDj9DtVtDaAQ807dSFZBt2UE=
 		</data>
 		<key>SDKMain.storyboardc/wBh-Jo-ykw-view-CPd-gs-3MA.nib</key>
 		<data>
-		38PEGS2UOc5LEGs2SlH+aA31kyw=
+		0XYE/H4dpBZk0EgnRFi6O9QL6Gs=
 		</data>
 		<key>UserDataModel.momd/UserDataModel.mom</key>
 		<data>
-		R/Ywqy4o4rM/y6cZsULN7Hp7120=
+		3tZVHx1FnRbLVs6m6xMDS43TaFI=
 		</data>
 		<key>UserDataModel.momd/VersionInfo.plist</key>
 		<data>
@@ -2182,15 +2182,15 @@
 		</data>
 		<key>Welcome.storyboardc/54U-GD-wCL-view-eS4-K5-HEk.nib</key>
 		<data>
-		CfgLNizr28Ru1dJDTDdohWOxiEI=
+		vZbqSIUbobzQ4O5BalpFxDFwxKA=
 		</data>
 		<key>Welcome.storyboardc/6oy-l6-09O-view-07l-wL-dwO.nib</key>
 		<data>
-		UdKnsdI0LumrDeHr1hTjPUHB6NY=
+		utoVzOgfCVVUmOAklOcTUonT1YY=
 		</data>
 		<key>Welcome.storyboardc/7a5-TN-SZn-view-M43-IP-txG.nib</key>
 		<data>
-		Bb46ewe55nZXt/2RowRfD4Q4rAg=
+		GSopW8QFRnLJKyU7znbp2h4NbX4=
 		</data>
 		<key>Welcome.storyboardc/Info.plist</key>
 		<data>
@@ -2198,27 +2198,27 @@
 		</data>
 		<key>Welcome.storyboardc/SourcePermissionsViewController.nib</key>
 		<data>
-		ikZnAeRow33e58h6GV/ijSegU84=
+		nHlMxqwYvD2b58x4m3pOM/NXV44=
 		</data>
 		<key>Welcome.storyboardc/SuccessViewController.nib</key>
 		<data>
-		2gRM+BYRX/lkoJZF/GNvcLwP94g=
+		cMUphwxQTTXuRvDXhHCU2wmfnxQ=
 		</data>
 		<key>Welcome.storyboardc/UA5-1K-IpK-view-kwS-QW-Sfl.nib</key>
 		<data>
-		wPjiKqiictFoIcyEcWD9tXP5jPQ=
+		agYkJ2aji5Q2q88/Y/vY3CJQ/Wk=
 		</data>
 		<key>Welcome.storyboardc/WelcomeSlideViewController.nib</key>
 		<data>
-		UhT2gi6wc59Rx6Obl8jkbi20hfI=
+		WUwduZUKIrH0oZxa9qVIIqH0eX8=
 		</data>
 		<key>Welcome.storyboardc/WelcomeViewController.nib</key>
 		<data>
-		Im3LcMRNtNDXtP/oolN1eRzq//I=
+		wgabchKwiQ1Umfv1yPEmMAdw0xw=
 		</data>
 		<key>WelcomeScreenSlideView.nib</key>
 		<data>
-		Qt7nhrD33ng3pHsFhPzaxdf96Ko=
+		Dj3jGupC1ujwaQxqHu3vMzrNIO0=
 		</data>
 		<key>en.lproj/Localized.strings</key>
 		<dict>
@@ -2244,14 +2244,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			upXhfoobyn0UrQv7LtCniUXnEsvtwJGS7jwnIOeVoQA=
+			ovJskBcnw+CYzNEOlXWmlnPynTmzoD/MKw0NJHLM18Y=
 			</data>
 		</dict>
 		<key>Agreement.storyboardc/AgreementViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K9q3VF4kK4nIigY+eSh1MMLMF27ugw1waasYWQzEio0=
+			hHFhfGkH5TWzDkswKLvWPeUU7r+F/hb+p9ls3Ql29gc=
 			</data>
 		</dict>
 		<key>Agreement.storyboardc/Info.plist</key>
@@ -2265,98 +2265,98 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XDufoPrOSYT/DyM1p92r+cam9Ypxbeiz9h9h+xwfNAw=
+			hYjJhwwdph1aRyH4rPVms0IK7M+ekI/P0qsxbGJhOKE=
 			</data>
 		</dict>
 		<key>Agreement.storyboardc/nXV-GI-SF0-view-I24-SU-TSZ.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LtILckE7aGylzmUNuZMQ4yJ6W7gQiJejyY4H2zeMbC4=
+			kmNpb/8FJoLLm3QxYzA4J6J4/exYAArtoj8xaUA+wlg=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qqaXluWIxs+mK6gfIwOiEkjwbzn714xSLNJJjrdsoXQ=
+			1jJddkot0Co5gqHPujhx2jPLHVWif7Y59kmm/t+ISlE=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/CodeVerificationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4IKIsHsj9kkYtQSTcPo3KwdKiZQcPJMgCL8MxRGlDA4=
+			AqryIYO+31MXKfNsKzYlMF2H9MZ9QUf1jcw2kh+2A0A=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/CountryViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o5IouHtmzBFS98uz210R03E2Mvcqk55WOP/nmg3O2Q8=
+			BlzQ6tk4Czaut0BWMtACl6ERRkf857q5mHfROQ8DYFM=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/GCU-H7-RBm-view-5uV-4x-12r.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OpaF8P11+Z0IrXMQbMBgRKEjVXyrHgO8+9RkgC0Zu8w=
+			End017jBy6GdnwvZf/qtrTZJWQIBIPA5lgZVPOKR00o=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GWKD2lXuRPqKSiOmTPDC9lUSfk51KvXnk8YilpGe80c=
+			yaUpUpdhAZ29rJsoYCdrkGOFDSJBTapiRv2SDsDRQ04=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/OtherAppLoginViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8tYG7knnl5V9KvfWQ9I9CWiaiP0hyNpF/A117zAOI+I=
+			2hMvXxB9Z3miDgtg1X49TR2eMX8YWYmRYio2Ncf/w0Q=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/QRLoginViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zesB4wJ2NEY0SiwD+IFEIfB3rzhKahRjcjS5qofiipo=
+			cFUrZ74a02ow/XaBWExOxfnB9awToBnuF0v6LjW13N8=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/SMSAuthViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UyQCUq0AVthA//ymr1tnd96rVFtgsosSZzCukFETo4k=
+			Ec2m3S4RUvqZhnDgu3wvXWuJzhftGO/+Vx5Z+Etj9M4=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/b5X-KD-Lj1-view-WNv-5x-Wg4.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GmpVPgtO7v+FV52X63sFhGCTs8DhH4s8QNTXVShDXh4=
+			E0CX4btZhkiolKGEQtg3uKYt/CNFq+60mq6wAGdeX8A=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/bqN-fh-RB2-view-35x-gp-90U.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ziG2uSB7GX8kVBX2x6BQxSXOmXQyBS0Tjj+khYisiIg=
+			cvQ1TiQqV/l9HAv9gU2SlHt1KJwt4ioA/T7G3Y3niL4=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/eeq-iG-eDl-view-SW8-e2-Y4I.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mGMJyc9s8KBLletVnycKOfCq3nx3jsj4kuR+EU0tm/0=
+			W46wWk0tqxkz0GHNsnnCJnaxrxijkGl4AoF+ytR1DG4=
 			</data>
 		</dict>
 		<key>AuthFlow.storyboardc/ltr-Pl-n9h-view-M4B-sd-lKI.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FuXrmakLAqiSo+vb2IQ/dh8yklqgMDNwg0VUMae+9M4=
+			5ISZaew5LYOl4e0VeT/CXbVx1gbPRHWe4IeK5zCYnw4=
 			</data>
 		</dict>
 		<key>CountryPickerController.bundle/AD.png</key>
@@ -5856,7 +5856,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tq9kM9iJ9CByos+RJUSDJfRE6N3yK18ptS7iievEgfI=
+			f160sztratUSoFUHjWcoEy506Lw984ZlbjEkD1PLiRE=
 			</data>
 		</dict>
 		<key>EditProfile.storyboardc/Info.plist</key>
@@ -5870,14 +5870,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AYvxS+ztigAyxfiC8lt/gAkoscnG8/YJOQCHoZMRpTs=
+			6jmXLFIdeOMT3WJoggSH9RKqv5VwvpQ36uKeM9V3Cus=
 			</data>
 		</dict>
 		<key>Headers/MyGaruSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c4QwQgou+leyIx4cqjqenn8XnwkGl244s8f1QQXyhT8=
+			fj5dPsXdA7KVqpFjfVjNfsZKIS0XPsRHB0Pk3WAji48=
 			</data>
 		</dict>
 		<key>Headers/MyGaruSDK.h</key>
@@ -5898,7 +5898,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/YyUsNIea+pT/gBqQz30z+yOVjm3D/wewE3kSrDuBKA=
+			7a/CcTBW2m5p75zQxfK1gDlOPC8HxcrhfeHfxtLPH34=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -5912,42 +5912,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			poJ/6IwuEaxA0FcVhH9ep0Z+M6JWw46wThKz26NEex8=
+			+yrsVeLmFSFZXIdhPFfdXE6qiWxl1sOkT8cl4360A6A=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/Dashboard1.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OBK22w6M1oMQ1Y29OssSV8WrdwY0L38hsu7V7HA7p/c=
+			Y7SFz74+yuemjZ5ap07KPadAgXLz/dd1fXucGL4FaUg=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/Dashboard2.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bV5HDIiEbP7nxBhGZ5p5/5Q3ypsaDLr/0vLylp4jDUM=
+			T/4zx4H4fB0EQXJypgLla1tG5sw3tSXz+jb8teZ80Xk=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/Dashboard3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dAHUR6us2TB256XFyhCl7MR6N8nbEaEPRdEvyhN1eA4=
+			HQJd8SBZzNtkrQz690kygomO1iOH8JC+dhf2VxXfR7I=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/DashboardViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PpGGo1YoHBO+tKXWzoB7cP/XMXvReerlnahuy2fZj2A=
+			lYkdmJmPx5QKV1DyNAqhNpMjlj5FbY1i/WVNNnHWp8E=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/DataManagementViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3mcOysey4LfAApUTr0tqHUMpczF4hGH2N6cECXyNX8g=
+			2EXapu1kpToyR/KnrbHL5w/lBNuXS1Xoi/Bpe2/8A5k=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/Info.plist</key>
@@ -5961,77 +5961,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O82v+5CeY3PYWAQiG141ZnkvnQoaEPd7l88a/8gw2rs=
+			2wj5uG7ZQCj6IQcGaLAZfAlzNKeR/VVvNp7pXeZiKMs=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oxnP5p4oniWt8KA8jCWvQlsVIn5xnByICuD4ZHMnRuo=
+			bIsDeqaKifrD9rlY7hYLlg/7/v4xZVuAzYgkChvsnEQ=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/O3H-fd-hhE-view-pFA-an-fq3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RmJYOUvypF8sP5IXkMQwFaWGInGGrIpiBnAaxqyseZw=
+			YWK5V+6xH4fk0vnhhbb807MCuTeNiDIsd/aImqVniEk=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/QRScanViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t5liIRBt7B9YiIADpPWftFUr7gA9LfYkvViDR8DOo60=
+			aa/b1qKUPZ7XTsJc+QoBSdx3Grl8iyIa73moukf6/r4=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/TabBarViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			giKPV8tWiotRyHUT1Tn6K3VOcX85WPfr3ybuataPbmQ=
+			LejEqpEnPrNjg7QPkJ0V/BHaFlg5t0pIxxGjZ62d3ao=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/ae8-4E-3Ye-view-4ay-q9-2f9.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3P24Rmeam3KnE9X9CF4wqS2vpCLSmNO3E9Mc9GqAyFY=
+			uZsb4axJOxOxE6SpqLnvCtntVx2gWGupo3YKb5O8FvQ=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/eOq-LW-WNR-view-sMs-cH-djb.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fBijCv9zg/rY9X4p75i5K2XsJGshWgIlnK5UOJ1O8as=
+			wPuuMQtIj11QVm46b1y5+aIm/w14KObkF6TIgx5qmHg=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/kyX-DW-jTK-view-E6H-OL-l2K.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yNO6jcxvu7z7AJeXemBlcqtPpGvQqo7aWYkLajfmPIg=
+			oFTaQeAPocpLEwhqNLS2rPH+iSmtsfj7XUQbdqBFjjE=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/pwX-DK-klk-view-PSa-y8-iTp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LMk2lJWN9OLOU+hDf2LLR5NTPaaIH0CLv0AaW4tnyco=
+			yq8qiALrofWTNHDJ0BkFjFhpT0VU5Y0KofAet9c9vuY=
 			</data>
 		</dict>
 		<key>SDKMain.storyboardc/wBh-Jo-ykw-view-CPd-gs-3MA.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gl58154b5ilWjivP/D/svLSxCOpwrrxcsUo1jHyQGUs=
+			EmsUJUeDL59INy4Acg+2Isj/quWZgI/cS32zVWEzKqQ=
 			</data>
 		</dict>
 		<key>UserDataModel.momd/UserDataModel.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8jveQp6V/Fx+kFYIOJdBoNlftNuyYiTceoUIwwZHtqk=
+			QN6wZTOhUTwMpt3DzEfnKo7g1QQT7DJyH5JBeXWX8N4=
 			</data>
 		</dict>
 		<key>UserDataModel.momd/VersionInfo.plist</key>
@@ -6045,21 +6045,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kFv2/PpX9/s/AluP0i2GPH32Ssx2LPC7EROM1KPUVMY=
+			OMrWP3fqQE+LYXBL7ITyH4KSu4vdGdkpwZWCOLg5UFE=
 			</data>
 		</dict>
 		<key>Welcome.storyboardc/6oy-l6-09O-view-07l-wL-dwO.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			68Q0/GbTd/F9iSqfoyLSCgVzbKooTIb5UJ21gCpEpU4=
+			fnDbsl0cuUbg7KTIsCrcSvNh7WVvSuj2wDg4yai8iXE=
 			</data>
 		</dict>
 		<key>Welcome.storyboardc/7a5-TN-SZn-view-M43-IP-txG.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4dNgk8IL7DyDdqlaRpjZlaEpE4M9RSGwIESG0X+5Nts=
+			H9W5+vA2H9hxz0LEHo5BFcVvgTrtnvorQLnOULhZrCw=
 			</data>
 		</dict>
 		<key>Welcome.storyboardc/Info.plist</key>
@@ -6073,42 +6073,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DBiEWGY1CouFHZi83BJve99a7wKp6Y9EIiGuU3sZJHA=
+			/wBvRLHc1aeXDZauANs/mLP6nUHXElaI+KtL60RQPJM=
 			</data>
 		</dict>
 		<key>Welcome.storyboardc/SuccessViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0KkKGMJ1UiF/uOy+ySTjBR3KrTTekyt3yHw3LfYvWSw=
+			NfICQidMDRS4+xLYeN/WcKgPA5oBPmQfqXxW8M7BGIM=
 			</data>
 		</dict>
 		<key>Welcome.storyboardc/UA5-1K-IpK-view-kwS-QW-Sfl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FoG5910U+3M8ROAVabDCVu3KhbrL66iWJd+h2lTkNtM=
+			vb2bs5/eClwELjkO4EcuhyTFPYim2f7UbJB7kj7L3OA=
 			</data>
 		</dict>
 		<key>Welcome.storyboardc/WelcomeSlideViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LigUexCoicXcgzVwxOyoYqdQHSwosAMqbwFLexEcL5w=
+			sGW8c6R5Uwc9xDDZlsZ+IUC7CSDRm+p8CgDVyEzOeBQ=
 			</data>
 		</dict>
 		<key>Welcome.storyboardc/WelcomeViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qfaWvsPfIjyZIkiSmVMLsbg0QczSKIZ4LsxgTsNhYf4=
+			5NsoVbscVcNW8/yjNtxVyk3LCqFzVDZfEIpoPbGvdoU=
 			</data>
 		</dict>
 		<key>WelcomeScreenSlideView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MAsHioFtag1YC9TQ0Y1q0Kd389RIULUIhdfnVoBpiXI=
+			BBbObseYhFYj++DEM28HNl6/IK/iHspsE4S5mec4GwA=
 			</data>
 		</dict>
 		<key>en.lproj/Localized.strings</key>
