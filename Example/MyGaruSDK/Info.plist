@@ -6,6 +6,10 @@
 	<string>en</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>mygaru</string>
+	</array>
 	<key>CFBundleIdentifier</key>
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -22,6 +26,27 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCalendarsUsageDescription</key>
+	<string>We need your data</string>
+	<key>NSCameraUsageDescription</key>
+	<string>We need your data</string>
+	<key>NSContactsUsageDescription</key>
+	<string>We need your data</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We need your data always</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your data</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We need your data</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need your data</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>We need your data</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

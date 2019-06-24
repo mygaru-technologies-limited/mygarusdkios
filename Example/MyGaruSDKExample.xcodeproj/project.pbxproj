@@ -12,21 +12,20 @@
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
-		C3457FF9A2ACDD1790AE86C2 /* Pods_MyGaruSDK_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73E74D846931E4074F095178 /* Pods_MyGaruSDK_Example.framework */; };
+		F7B05FB949A0E4B049DFCB3F /* Pods_MyGaruSDKExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B6792F829E6FBFCEA44CE27F /* Pods_MyGaruSDKExample.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		52E729C2577ED1AECC8B37D9 /* Pods-MyGaruSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyGaruSDK_Example.debug.xcconfig"; path = "Target Support Files/Pods-MyGaruSDK_Example/Pods-MyGaruSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		607FACD01AFB9204008FA782 /* MyGaruSDK_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyGaruSDK_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		607FACD01AFB9204008FA782 /* MyGaruSDKExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyGaruSDKExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		607FACD71AFB9204008FA782 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		607FACDA1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		607FACDC1AFB9204008FA782 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		607FACDF1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		73E74D846931E4074F095178 /* Pods_MyGaruSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyGaruSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7661867773700EA394E9EA21 /* Pods_MyGaruSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyGaruSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED791CBCA86691BCD39D7C85 /* Pods-MyGaruSDK_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyGaruSDK_Example.release.xcconfig"; path = "Target Support Files/Pods-MyGaruSDK_Example/Pods-MyGaruSDK_Example.release.xcconfig"; sourceTree = "<group>"; };
+		B6792F829E6FBFCEA44CE27F /* Pods_MyGaruSDKExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyGaruSDKExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D52264C2D662DFEF2280E7D2 /* Pods-MyGaruSDKExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyGaruSDKExample.debug.xcconfig"; path = "Target Support Files/Pods-MyGaruSDKExample/Pods-MyGaruSDKExample.debug.xcconfig"; sourceTree = "<group>"; };
+		F83FB0AF2FEC7AF3E26C4CF0 /* Pods-MyGaruSDKExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyGaruSDKExample.release.xcconfig"; path = "Target Support Files/Pods-MyGaruSDKExample/Pods-MyGaruSDKExample.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,7 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C3457FF9A2ACDD1790AE86C2 /* Pods_MyGaruSDK_Example.framework in Frameworks */,
+				F7B05FB949A0E4B049DFCB3F /* Pods_MyGaruSDKExample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -44,8 +43,8 @@
 		23ED1367C2ACEEFF3475BAE6 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				52E729C2577ED1AECC8B37D9 /* Pods-MyGaruSDK_Example.debug.xcconfig */,
-				ED791CBCA86691BCD39D7C85 /* Pods-MyGaruSDK_Example.release.xcconfig */,
+				D52264C2D662DFEF2280E7D2 /* Pods-MyGaruSDKExample.debug.xcconfig */,
+				F83FB0AF2FEC7AF3E26C4CF0 /* Pods-MyGaruSDKExample.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -53,8 +52,7 @@
 		2864F174E5C3A25D12E5D35B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				73E74D846931E4074F095178 /* Pods_MyGaruSDK_Example.framework */,
-				7661867773700EA394E9EA21 /* Pods_MyGaruSDK_Tests.framework */,
+				B6792F829E6FBFCEA44CE27F /* Pods_MyGaruSDKExample.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -72,7 +70,7 @@
 		607FACD11AFB9204008FA782 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				607FACD01AFB9204008FA782 /* MyGaruSDK_Example.app */,
+				607FACD01AFB9204008FA782 /* MyGaruSDKExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -102,9 +100,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		607FACCF1AFB9204008FA782 /* MyGaruSDK_Example */ = {
+		607FACCF1AFB9204008FA782 /* MyGaruSDKExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MyGaruSDK_Example" */;
+			buildConfigurationList = 607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MyGaruSDKExample" */;
 			buildPhases = (
 				CB540599250814B9462E9734 /* [CP] Check Pods Manifest.lock */,
 				607FACCC1AFB9204008FA782 /* Sources */,
@@ -116,9 +114,9 @@
 			);
 			dependencies = (
 			);
-			name = MyGaruSDK_Example;
+			name = MyGaruSDKExample;
 			productName = MyGaruSDK;
-			productReference = 607FACD01AFB9204008FA782 /* MyGaruSDK_Example.app */;
+			productReference = 607FACD01AFB9204008FA782 /* MyGaruSDKExample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -133,11 +131,17 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = CJ6QJ3KYU8;
 						LastSwiftMigration = 0900;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
-			buildConfigurationList = 607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "MyGaruSDK" */;
+			buildConfigurationList = 607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "MyGaruSDKExample" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -151,7 +155,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				607FACCF1AFB9204008FA782 /* MyGaruSDK_Example */,
+				607FACCF1AFB9204008FA782 /* MyGaruSDKExample */,
 			);
 		};
 /* End PBXProject section */
@@ -175,10 +179,8 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MyGaruSDK_Example/Pods-MyGaruSDK_Example-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-MyGaruSDKExample/Pods-MyGaruSDKExample-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
 				"${BUILT_PRODUCTS_DIR}/KeychainSwift/KeychainSwift.framework",
@@ -193,8 +195,6 @@
 				"${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
@@ -211,7 +211,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MyGaruSDK_Example/Pods-MyGaruSDK_Example-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MyGaruSDKExample/Pods-MyGaruSDKExample-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		CB540599250814B9462E9734 /* [CP] Check Pods Manifest.lock */ = {
@@ -229,7 +229,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-MyGaruSDK_Example-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MyGaruSDKExample-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -371,14 +371,15 @@
 		};
 		607FACF01AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 52E729C2577ED1AECC8B37D9 /* Pods-MyGaruSDK_Example.debug.xcconfig */;
+			baseConfigurationReference = D52264C2D662DFEF2280E7D2 /* Pods-MyGaruSDKExample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CJ6QJ3KYU8;
 				INFOPLIST_FILE = MyGaruSDK/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mygaru.iossdkpoddemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 5.0;
@@ -387,14 +388,15 @@
 		};
 		607FACF11AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = ED791CBCA86691BCD39D7C85 /* Pods-MyGaruSDK_Example.release.xcconfig */;
+			baseConfigurationReference = F83FB0AF2FEC7AF3E26C4CF0 /* Pods-MyGaruSDKExample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CJ6QJ3KYU8;
 				INFOPLIST_FILE = MyGaruSDK/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mygaru.iossdkpoddemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 5.0;
@@ -404,7 +406,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "MyGaruSDK" */ = {
+		607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "MyGaruSDKExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				607FACED1AFB9204008FA782 /* Debug */,
@@ -413,7 +415,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MyGaruSDK_Example" */ = {
+		607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MyGaruSDKExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				607FACF01AFB9204008FA782 /* Debug */,

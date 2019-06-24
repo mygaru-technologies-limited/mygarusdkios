@@ -166,11 +166,12 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import Contacts;
 @import CoreData;
+@import CoreGraphics;
 @import CoreLocation;
 @import Foundation;
 @import ObjectiveC;
+@import TTTAttributedLabel;
 @import UIKit;
 #endif
 
@@ -191,15 +192,61 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
+@class UIColor;
+@class UIFont;
+@class NSCoder;
+
+SWIFT_CLASS("_TtC9MyGaruSDK14CBPinEntryView")
+@interface CBPinEntryView : UIView
+@property (nonatomic) NSInteger length;
+@property (nonatomic) CGFloat spacing;
+@property (nonatomic) CGFloat entryCornerRadius;
+@property (nonatomic) CGFloat entryBorderWidth;
+@property (nonatomic, strong) UIColor * _Nonnull entryDefaultBorderColour;
+@property (nonatomic, strong) UIColor * _Nonnull entryBorderColour;
+@property (nonatomic, strong) UIColor * _Nonnull entryEditingBackgroundColour;
+@property (nonatomic, strong) UIColor * _Nonnull entryErrorBorderColour;
+@property (nonatomic, strong) UIColor * _Nonnull entryBackgroundColour;
+@property (nonatomic, strong) UIColor * _Nonnull entryTextColour;
+@property (nonatomic, strong) UIFont * _Nonnull entryFont;
+@property (nonatomic) BOOL isSecure;
+@property (nonatomic, copy) NSString * _Nonnull secureCharacter;
+@property (nonatomic) NSInteger keyboardType;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (void)awakeFromNib;
+- (void)prepareForInterfaceBuilder;
+- (BOOL)becomeFirstResponder;
+- (BOOL)resignFirstResponder;
+@end
+
+@class UITextField;
+
+@interface CBPinEntryView (SWIFT_EXTENSION(MyGaruSDK)) <UITextFieldDelegate>
+- (BOOL)textField:(UITextField * _Nonnull)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString * _Nonnull)string SWIFT_WARN_UNUSED_RESULT;
+@end
 
 
 
+@class UIEvent;
+
+/// Checkbox is a simple, animation free checkbox and UISwitch alternative designed
+/// to be performant and easy to implement.
+SWIFT_CLASS("_TtC9MyGaruSDK8Checkbox")
+@interface Checkbox : UIControl
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (void)drawRect:(CGRect)rect;
+- (BOOL)pointInside:(CGPoint)point withEvent:(UIEvent * _Nullable)event SWIFT_WARN_UNUSED_RESULT;
+@end
 
 
 SWIFT_CLASS("_TtC9MyGaruSDK9MyGaruSDK")
 @interface MyGaruSDK : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
+
 
 
 @interface UIBarItem (SWIFT_EXTENSION(MyGaruSDK))
@@ -256,7 +303,7 @@ SWIFT_CLASS_NAMED("UserCD")
 @property (nonatomic, copy) NSString * _Nullable email;
 @property (nonatomic, copy) NSString * _Nullable firstName;
 @property (nonatomic, copy) NSString * _Nullable lastName;
-@property (nonatomic, copy) NSString * _Nullable gender;
+@property (nonatomic, copy) NSString * _Nullable genderString;
 @property (nonatomic, copy) NSDate * _Nullable birthday;
 @property (nonatomic, strong) NSNumber * _Nullable signedAgreement;
 - (nonnull instancetype)initWithEntity:(NSEntityDescription * _Nonnull)entity insertIntoManagedObjectContext:(NSManagedObjectContext * _Nullable)context OBJC_DESIGNATED_INITIALIZER;
